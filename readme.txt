@@ -7,3 +7,4 @@ Creating a new branch is quick.
 Creating a new branch is quick and simple.
 add merge
 ∑÷÷ßbug–ﬁ∏¥≤‚ ‘
+Àı–¥ commit ci°¢branch br°¢checkout co
